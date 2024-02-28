@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.6df265d8.chunk.css",
-    "main.js": "/static/js/main.91527e39.chunk.js",
-    "main.js.map": "/static/js/main.91527e39.chunk.js.map",
+    "main.js": "/static/js/main.ae219d1b.chunk.js",
+    "main.js.map": "/static/js/main.ae219d1b.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.46ce633b.js",
     "runtime-main.js.map": "/static/js/runtime-main.46ce633b.js.map",
     "static/css/2.7b8a7a4e.chunk.css": "/static/css/2.7b8a7a4e.chunk.css",
@@ -128,7 +128,7 @@
     "static/media/react.2b6a0717.svg": "/static/media/react.2b6a0717.svg",
     "static/media/redTheme-boy.846d9d39.svg": "/static/media/redTheme-boy.846d9d39.svg",
     "static/media/redTheme-girl.1ebbd52c.svg": "/static/media/redTheme-girl.1ebbd52c.svg",
-    "static/media/resume.26bed1b5.pdf": "/static/media/resume.26bed1b5.pdf",
+    "static/media/resume.3be063c3.pdf": "/static/media/resume.3be063c3.pdf",
     "static/media/ruby.34e792ab.svg": "/static/media/ruby.34e792ab.svg",
     "static/media/selenium.7dcf1c14.svg": "/static/media/selenium.7dcf1c14.svg",
     "static/media/seven.3168c0a5.svg": "/static/media/seven.3168c0a5.svg",
@@ -143,6 +143,7 @@
     "static/media/tailwind.254c4865.svg": "/static/media/tailwind.254c4865.svg",
     "static/media/tensorflow.6d6f2e37.svg": "/static/media/tensorflow.6d6f2e37.svg",
     "static/media/three.d4f751d1.svg": "/static/media/three.d4f751d1.svg",
+    "static/media/twelve.388636d1.svg": "/static/media/twelve.388636d1.svg",
     "static/media/two.721a0672.svg": "/static/media/two.721a0672.svg",
     "static/media/typescript.31f8fee8.svg": "/static/media/typescript.31f8fee8.svg",
     "static/media/unity.ad58069d.svg": "/static/media/unity.ad58069d.svg",
@@ -160,6 +161,6 @@
     "static/css/2.7b8a7a4e.chunk.css",
     "static/js/2.3b2b2d05.chunk.js",
     "static/css/main.6df265d8.chunk.css",
-    "static/js/main.91527e39.chunk.js"
+    "static/js/main.ae219d1b.chunk.js"
   ]
 }
